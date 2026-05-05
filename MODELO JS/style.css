@@ -1,0 +1,43 @@
+body {
+    background-color: #0b4bd6;
+    font-family: Arial, sans-serif, 15px;
+
+}
+
+header {
+    color: white;
+    text-align: center;
+}
+
+section {
+    background-color: #f4f4f4;
+     border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.1);
+
+}
+
+footer {
+    color: white;
+    font-style: italic;
+    text-align: center;
+}
+
+div#imagem {
+    text-align: center;
+}
+
+img#foto {
+    width: 250px; /* tamanho fixo */
+    max-width: 100%; /* responsivo */
+    border-radius: 10px;
+}
+
+#msg {
+    text-align: center;
+    margin-bottom: 10px;
+    font-size: 20px;
+    font-weight: bold;
+}
